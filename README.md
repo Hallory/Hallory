@@ -2,7 +2,7 @@
 
 I'm a Junior Frontend Developer. I'm learning React, JavaScript, TypeScript, HTML, SCSS, CSS, Redux, and Redux Toolkit.
 
-- 🌍 I'm based in Germany (Lueneburg)
+- 🌍 I'm based in Germany (Dannenberg)
 - ✉️ You can contact me at [khalpeep@gmail.com]
 - 🧠 I'm currently learning PHP
 - ⚡ In love with what I do
