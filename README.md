@@ -4,7 +4,7 @@ I'm a Junior Frontend Developer. I'm learning React, JavaScript, TypeScript, HTM
 
 - 🌍 I'm based in Germany (Dannenberg)
 - ✉️ You can contact me at [khalpeep@gmail.com]
-- 🧠 I'm currently learning Python
+- 🧠 I'm currently learning Backend on Javascript
 - ⚡ In love with what I do
 
 ## Skills
